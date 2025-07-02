@@ -25,8 +25,8 @@
 ## 📷 Скриншоты
 
 ### Список пользователей  
-![image](https://github.com/user-attachments/assets/a10b7c16-3b80-4beb-a73c-577a726d7858)
-
+![image](https://github.com/user-attachments/assets/ece1018e-21af-447e-b391-c2d0e0bb1180)
 
 ### Детали пользователя  
-![image](https://github.com/user-attachments/assets/de9012f0-9dc9-4af3-a340-dd00581da653)
+![image](https://github.com/user-attachments/assets/7c33a7ee-568d-43ad-abc3-ccc4793b6559)
+
